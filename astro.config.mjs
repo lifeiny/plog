@@ -2,6 +2,7 @@ import fs from 'fs';
 import dayjs from 'dayjs';
 import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
+import markdown from '@astrojs/markdown'
 
 import { defineConfig } from 'astro/config';
 import { parse } from 'node-html-parser';
