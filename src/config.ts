@@ -7,7 +7,7 @@ export const SITE = {
 	pic: 'https://cdn.jsdelivr.net/gh/lifeiny/imageField/background.PNG',
 	homePage: 'https://lifeiny.github.io/',
 	blogPage: 'https://lifeiny.github.io/',
-	twitterId: 'HiTw93',
+	twitterId: 'LiFeileaf',
 	githubId: 'lifeiny',
 	repo: 'lifeiny/plog',
 };
