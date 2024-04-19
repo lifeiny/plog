@@ -2,6 +2,7 @@
 
 > .感谢来自[Tw93](https://github.com/tw93/weekly)的模板。
 
+* [第 05 期 - 世纪晚霞](https://lifei.life/posts/05-世纪晚霞)
 * [第 04 期 - 一些瞎拍](https://lifei.life/posts/04-一些瞎拍)
 * [第 03 期 - 西环海滨](https://lifei.life/posts/03-西环海滨)
 * [第 02 期 - 大围骑行](https://lifei.life/posts/02-大围骑行)
