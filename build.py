@@ -29,7 +29,7 @@ if __name__ == "__main__":
         num = int(oldTitle.split('-')[0])
         if index < 5 :
           if num < 100 :
-            modified = dateList[6-num]
+            modified = dateList[7-num]
           else :
             modified = fetch_ci_time('/src/pages/posts/' + filepath)
 
