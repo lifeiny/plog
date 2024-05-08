@@ -2,6 +2,7 @@
 
 > .感谢来自[Tw93](https://github.com/tw93/weekly)的模板。
 
+* [第 08 期 - 深圳落日](https://lifei.life/posts/08-深圳落日)
 * [第 07 期 - 海滩露营](https://lifei.life/posts/07-海滩露营)
 * [第 06 期 - 麦理浩径](https://lifei.life/posts/06-麦理浩径)
 * [第 05 期 - 世纪晚霞](https://lifei.life/posts/05-世纪晚霞)
