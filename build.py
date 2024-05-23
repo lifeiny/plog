@@ -25,7 +25,7 @@ if __name__ == "__main__":
         url   = 'https://lifei.life/posts/' + oldTitle
         title = '第 ' + oldTitle.split('-')[0] + ' 期 - ' + oldTitle.split('-')[1]
         readmeMd= '* [{}]({})\n'.format(title, url)
-        dateList = ["2024-05-23"，"2024-05-09","2024-04-28","2024-04-22","2024-04-20"]
+        dateList = ["2024-05-23","2024-05-09","2024-04-28","2024-04-22","2024-04-20"]
         num = int(oldTitle.split('-')[0])
         if index < 5 :
           if num < 100 :
