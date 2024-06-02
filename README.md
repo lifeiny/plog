@@ -1,6 +1,6 @@
 # Li Fei's plog
 
-> .感谢来自[Tw93](https://github.com/tw93/weekly)的模板。
+> 感谢来自[Tw93](https://github.com/tw93/weekly)的模板。
 
 * [第 09 期 - 华为小镇](https://lifei.life/posts/09-华为小镇)
 * [第 08 期 - 深圳落日](https://lifei.life/posts/08-深圳落日)
