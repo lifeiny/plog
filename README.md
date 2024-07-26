@@ -2,6 +2,7 @@
 
 > 感谢来自[Tw93](https://github.com/tw93/weekly)的模板。
 
+* [第 13 期 - 世纪晚霞（伪）](https://lifei.life/posts/13-世纪晚霞（伪）)
 * [第 12 期 - 西环海滨（三）](https://lifei.life/posts/12-西环海滨（三）)
 * [第 11 期 - 维港日出](https://lifei.life/posts/11-维港日出)
 * [第 10 期 - 西环海滨（二）](https://lifei.life/posts/10-西环海滨（二）)
