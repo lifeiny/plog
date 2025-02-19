@@ -23,7 +23,7 @@ if __name__ == "__main__":
         filepath = urllib.parse.quote(name)
         oldTitle = name.split('.md')[0]
         url   = 'https://lifei.life/posts/' + oldTitle
-        title = '第 ' + oldTitle.split('-')[0] + ' 期 - ' + oldTitle.split('-')[1]
+        title = 'Post ' + oldTitle.split('-')[0] + ' - ' + oldTitle.split('-')[1]
         readmeMd= '* [{}]({})\n'.format(title, url)
         dateList = ["2025-02-16","2025-02-17","2024-11-01","2024-09-09","2024-09-09"]
         num = int(oldTitle.split('-')[0])
