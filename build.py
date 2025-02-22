@@ -25,11 +25,11 @@ if __name__ == "__main__":
         url   = 'https://lifei.life/posts/' + oldTitle
         title = 'Post ' + oldTitle.split('-')[0] + ' - ' + oldTitle.split('-')[1]
         readmeMd= '* [{}]({})\n'.format(title, url)
-        dateList = ["2025-02-16","2025-02-17","2024-11-01","2024-09-09","2024-09-09"]
+        dateList = ["2025-02-22","2025-02-16","2025-02-17","2024-11-01","2024-09-09"]
         num = int(oldTitle.split('-')[0])
         if index < 5 :
           if num < 100 :
-            modified = dateList[21-num]
+            modified = dateList[22-num]
           else :
             modified = fetch_ci_time('/src/pages/posts/' + filepath)
 
